@@ -2,7 +2,7 @@
 Retail supermarket sales analysis using Python &amp; Tableau with profit prediction and customer segmentation using Machine Learning.
 Project Overview
 
-This project aims to analyze supermarket sales data to understand business performance in terms of sales, profit, discount patterns, and customer segments. Using Python and Tableau, we derived valuable insights to support data-driven business decision-making.
+This project aims to analyze supermarket sales data to understand business performance in terms of sales, profit, discount patterns, and customer segments. Using Python and Tableau, derived valuable insights to support data-driven business decision-making.
 
 🎯 Objectives
 
